@@ -6,7 +6,7 @@ header{
 }
 h1{
     font-size: 5em;
-    color: #228B22;
+    color: #8B1C62;
     font-family: Georgia, 'Times New Roman', Times, serif;
     letter-spacing: 10px;
     font-weight: bold;
@@ -17,7 +17,7 @@ h3{
     font-size: 2em;
     font-style: normal;
     font-variant: normal;
-    color: #9ACD32;
+    color: #CD2990;
     margin-top: 10px;
     margin-bottom: 25px;
 }
@@ -36,6 +36,7 @@ h3{
 .btnSortear > button{
     font-size: 2em;
     padding: 10px 20px;
+    color: #CD2990;
 }
 footer{
     display: flex;
