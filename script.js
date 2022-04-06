@@ -16,7 +16,7 @@ function sorteio() {
             }
         }
         document.getElementById("sorteados").innerHTML = numSort
-        contAc()
+        contAcertos()
     } else{
         alert("Antes do sorteio, digite 6 valores")
     }
